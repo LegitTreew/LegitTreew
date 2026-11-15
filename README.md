@@ -35,7 +35,10 @@ CURRENTLY  : Building something in the Wired
 - HTML
 - CSS
 - JavaScript
+- Java
 - C++
+- SQL
+- Python
 
 ### CURRENT TRANSMISSION
 
