@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**LegitTreew/LegitTreew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# `LEGITTREEW.exe`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**WELCOME TO MY CORNER OF THE WIRED.**
+
+`DEVELOPER` // `STUDENT` // `DIGITAL EXPLORER`
+
+[ SYSTEM STATUS: ONLINE ]
+
+</div>
+
+---
+
+### ABOUT ME
+
+```text
+USER       : LegitTreew
+STATUS     : ONLINE
+INTERESTS  : Programming, Web Design, Games
+CURRENTLY  : Building something in the Wired
+```
+
+### PROJECTS
+
+| PROJECT | DESCRIPTION |
+|---|---|
+| WIRED.exe | Serial Experiments Lain inspired ARG |
+| TREND COURT | Indonesian climate trends |
+| STUDENT RECORDS | C++ student management system |
+
+### TECH STACK
+
+- HTML
+- CSS
+- JavaScript
+- C++
+
+### CURRENT TRANSMISSION
+
+> The boundary between the real world and the Wired is not as clear as it seems.
+
+<div align="center">
+
+`END OF TRANSMISSION // 0001`
+
+</div>
