@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="wired-profile-banner.png" width="100%" />
+  <img src="legittreew-connected-banner.gif" width="100%" />
 </div>
+
 <br>
- <div align="center">
 
 # `L E G I T T R E E W . e x e`
 
