@@ -40,6 +40,7 @@ LOCATION    : THE WIRED
 | 001 | [WIRED.exe](https://legittreew.github.io/WIRED.exe/) |
 | 002 | [TREND COURT](https://github.com/LegitTreew/trend-court-indonesia) |
 | 003 | [STUDENT RECORDS](https://github.com/LegitTreew/TREEW-Student-Records-Manager) |
+| 004 | [NULL](https://legittreew.github.io/null-color-generator/) |
 
 ## `03 // SYSTEM CONFIGURATION`
 
